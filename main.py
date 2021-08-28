@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!main/bin/python3.8
 from sys import path
 path.clear()
 path.append("main/lib/site/python3.8")
