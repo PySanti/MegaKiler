@@ -8,5 +8,5 @@ Instalation :
 
 Play : put in your terminal ...
     
-    cd ./(instalation path)/MegaKiller/
+    cd (instalation path)
     ./main.py
