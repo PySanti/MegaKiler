@@ -1,5 +1,5 @@
 # MegaKiler
-A Python game made with Pygame and megaman 
+A Python game made with Pygame and megaman, all code made by Santigo De Andrade 07/2021
 
 
 Instalation : 
@@ -7,7 +7,7 @@ Instalation :
     git clone  PySanti/MegaKiler
     
 
-Play :
+Play : put in your terminal ...
     
     ./(instalation path)/MegaKiller/main.py
     
