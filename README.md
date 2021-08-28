@@ -1,4 +1,4 @@
-# MegaKiler
+# MegaKilLer
 A Python game made with Pygame and megaman, all code made by Santigo De Andrade 07/2021
 
 
