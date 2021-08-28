@@ -4,7 +4,7 @@ A Python game made with Pygame and megaman, all code made by Santigo De Andrade 
 
 Instalation : 
     
-    git clone https://github.com/PySanti/MegaKiler
+    git clone https://github.com/PySanti/MegaKiller
 
 Play : put in your terminal ...
     
