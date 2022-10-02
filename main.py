@@ -1,8 +1,6 @@
 #!dependencies/bin/python3.8
 from sys import path
-path.clear()
-path.append("dependencies/lib/site/python3.8")
-path.append("dependencies/lib/python3.8/site-packages/")
+
 import pygame
 from pygame.locals import *
 from random import randint
